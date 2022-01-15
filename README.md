@@ -26,15 +26,15 @@ A few guidelines for contributing:
 
 ```bash
 
-$ go get github.com/cj123/canijailbreak.com
-$ cd $GOPATH/src/github.com/cj123/canijailbreak.com
+$ go get github.com/30440r/canijailbreak
+$ cd $GOPATH/src/github.com/30440r/canijailbreak
 $ go build .
 ```
 
 ## running it
 
 ```bash
-$ ./canijailbreak.com --help
+$ ./canijailbreak --help
 ```
 
 This will generate output, by default into `./static`. 
@@ -43,4 +43,4 @@ This will generate output, by default into `./static`.
 
 look in the file `./jailbreaks.yml` for a layout
 
-then run the `./canijailbreak.com` util again
+then run the `./canijailbreak` util again
