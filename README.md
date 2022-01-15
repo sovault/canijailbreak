@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://ipsw.me/assets/images/brand/penguin.png"><br>
-  canijailbreak.com
+  <img src="http://30440r.xyz/img/ava.png"><br>
+  canijailbreak
 </h1>
 
 <p align="center">
-  <a href="https://travis-ci.org/cj123/canijailbreak.com"><img src="https://travis-ci.org/cj123/canijailbreak.com.svg?branch=master" alt="Build Status"></a>
+  <a href="https://travis-ci.org/30440r/canijailbreak"><img src="https://travis-ci.org/30440r/canijailbreak.svg?branch=master" alt="Build Status"></a>
 </p>
 
 a website which tells you whether you can jailbreak your iPhone, iPad, iPod touch or Apple TV.
