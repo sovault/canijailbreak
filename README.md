@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/30440r/30440r.github.io/blob/master/img/ava.png?raw=true"><br>
+  <img src="https://github.com/30440r/30440r.github.io/blob/master/img/cydia.png?raw=true"><br>
   canijailbreak
 </h1>
 
