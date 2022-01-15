@@ -9,6 +9,7 @@
 <p align="center">
 A website which tells you whether you can jailbreak your iPhone, iPad, iPod touch or Apple TV.
 </p>
+
 ## Contributing
 
 We welcome contributions to the code/design/data of the site! Currently, it's fairly basic.
