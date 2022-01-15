@@ -1,10 +1,10 @@
 <h1 align="center">
   <img src="http://www.30440r.xyz/img/cydia.png"><br>
-  canijailbreak, 30440r's version
+  canijailbreak, sovault's version
 </h1>
 
 <p align="center">
-  <a href="http://30440r.xyz/canijailbreak"><img src="https://badgen.net/badge/Status/Not%20Updated/red" alt="Status"></a>
+  <a href="https://sovault.github.io/canijailbreak"><img src="https://badgen.net/badge/Status/Not%20Updated/red" alt="Status"></a>
 </p>
 <p align="center">
 A website which tells you whether you can jailbreak your iPhone, iPad, iPod touch or Apple TV.
@@ -27,8 +27,8 @@ A few guidelines for contributing:
 
 ```bash
 
-$ go get github.com/30440r/canijailbreak
-$ cd $GOPATH/src/github.com/30440r/canijailbreak
+$ go get github.com/sovault/canijailbreak
+$ cd $GOPATH/src/github.com/sovault/canijailbreak
 $ go build .
 ```
 
