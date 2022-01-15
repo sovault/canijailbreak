@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/30440r/canijailbreak/actions/"><img src="https://badgen.net/badge/Build/Sucess/green" alt="Build Status"></a>
+  <a href="http://30440r.xyz/canijailbreak"><img src="https://badgen.net/badge/Status/Not%20Working/red" alt="Status"></a>
 </p>
 
 a website which tells you whether you can jailbreak your iPhone, iPad, iPod touch or Apple TV.
