@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://travis-ci.org/30440r/canijailbreak"><img src="https://travis-ci.org/30440r/canijailbreak.svg?branch=master" alt="Build Status"></a>
+  <a href="https://github.com/30440r/canijailbreak/actions/runs/1701782976"><img src="https://github.com/30440r/canijailbreak/actions/runs/1701782976.svg?branch=master" alt="Build Status"></a>
 </p>
 
 a website which tells you whether you can jailbreak your iPhone, iPad, iPod touch or Apple TV.
