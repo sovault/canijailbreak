@@ -6,9 +6,9 @@
 <p align="center">
   <a href="http://30440r.xyz/canijailbreak"><img src="https://badgen.net/badge/Status/Not%20Working/red" alt="Status"></a>
 </p>
-
-a website which tells you whether you can jailbreak your iPhone, iPad, iPod touch or Apple TV.
-
+<p align="center">
+A website which tells you whether you can jailbreak your iPhone, iPad, iPod touch or Apple TV.
+</p>
 ## Contributing
 
 We welcome contributions to the code/design/data of the site! Currently, it's fairly basic.
